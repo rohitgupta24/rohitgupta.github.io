@@ -49,7 +49,7 @@
                 </div>
 
                 <div class="home__img">
-                    <img src="assets/img/img.jpg" alt="">
+                    <img src="assets/img/img.gif" alt="">
                 </div>
                 
                 <div class="home__social">
